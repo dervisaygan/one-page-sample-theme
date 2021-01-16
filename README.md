@@ -1,2 +1,1 @@
-# one-page-sample-theme
- one page sample theme
+https://dervisaygan.github.io/one-page-sample-theme/
