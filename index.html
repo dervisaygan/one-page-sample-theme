@@ -32,6 +32,7 @@ nav{
     border-right: 1px solid gray;
     border-left: 1px solid gray;
     overflow: scroll;
+	
     
 }
 main{
@@ -428,8 +429,19 @@ Lorem, ipsum dolor sit amet consectetur adipisicing elit. Debitis maxime itaque 
 
 
 
-
-
+   <script>
+        const element = document.getElementById("getData");
+        const xhr = new XMLHttpRequest();
+        xhr.open("GET", "https://www.bilgiduzu.com/sitemap.xml", true);
+        xhr.send();
+        xhr.onreadystatechange = function() {
+            if (this.readyState === 4) {
+                if ((this.status == 200) && (this.status < 300)) {
+                    console.log(this.responseText)
+                }
+            }
+        }
+    </script>
 
 
 </body>
