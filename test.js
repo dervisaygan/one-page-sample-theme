@@ -14,7 +14,7 @@
             </div>
            <center><img src="https://i.hizliresim.com/s0rlr1w.png" style="max-width:400px;height:auto;"/></center>
            <center style="margin-top:20px">
-          <iframe style="margin-left:175px;" src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fwww.facebook.com%2FF%25C4%25B1krac%25C4%25B1-Tv-105872408499688%2F&layout=button_count&size=large&width=88&height=28&appId" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+          <iframe style="margin-left:175px;" class="zfc-zz" src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fwww.facebook.com%2FF%25C4%25B1krac%25C4%25B1-Tv-105872408499688%2F&layout=button_count&size=large&width=88&height=28&appId" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
         </center>
         </div>
     </div>
