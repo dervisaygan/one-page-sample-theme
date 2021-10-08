@@ -13,8 +13,8 @@
              
             </div>
            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolorem, molestias incidunt ipsa totam aliquam ea numquam, architecto accusantium quod neque consequuntur fugiat quae nam quam. Quis modi dignissimos vel et.</p>
-           <center style="margin-top:20px" class="zfc-rem">
-          <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fwww.facebook.com%2FF%25C4%25B1krac%25C4%25B1-Tv-105872408499688%2F&layout=button_count&size=large&width=88&height=28&appId" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" class="zfc-zz" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+           <center style="margin-top:20px">
+          <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fwww.facebook.com%2FF%25C4%25B1krac%25C4%25B1-Tv-105872408499688%2F&layout=button_count&size=large&width=88&height=28&appId" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
         </center>
         </div>
     </div>
