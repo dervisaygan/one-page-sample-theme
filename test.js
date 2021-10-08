@@ -12,7 +12,7 @@
                 <p>Bizi arkadaşlarına tavsiye etmek ister misin?</p>
              
             </div>
-           <p><img src="https://i.hizliresim.com/s0rlr1w.png" style="width:100%;height:auto;"/></p>
+           <p><img src="https://i.hizliresim.com/s0rlr1w.png" style="max-width:400px;height:auto;"/></p>
            <center style="margin-top:20px">
           <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fwww.facebook.com%2FF%25C4%25B1krac%25C4%25B1-Tv-105872408499688%2F&layout=button_count&size=large&width=88&height=28&appId" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
         </center>
