@@ -9,7 +9,10 @@
           
            <center><img src="https://i.hizliresim.com/eafccxa.png" style="max-width:400px;height:auto;"/></center>
            <center style="margin-top:20px">
-          <iframe style="margin-left:175px;" class="zfc-zz" src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fwww.facebook.com%2FF%25C4%25B1krac%25C4%25B1-Tv-105872408499688%2F&layout=button_count&size=large&width=88&height=28&appId" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+	   
+	   <iframe class="zfc-zz" src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D119454010474861%26id%3D105872408499688%26__cft__[0]%3DAZVh3qWJfPlZ63FJwodowejaZ8HzjipaNjn_Tk56l1tz-6Py7qGKkE59XVha-tlxkXZ0yjH7fvPt24F-ItyciKcB1X0KmfV69OpXGJaYaD_2eZGp1K5kP_IjLjwwJtxi64MA8NxakiMB1-SUEUNHDbTAbRxhkCWMM5Q4LmQB5ww9Dg%26__tn__%3D%252CO%252CP-R&layout=button_count&size=small&width=77&height=20&appId" width="77" height="20" style="border:none;overflow:hidden;margin-left:175px;" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+	   
+	
         </center>
         </div>
     </div>
